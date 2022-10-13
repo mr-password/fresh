@@ -16,26 +16,27 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#ad4b4b"
      bordercolor="#3c3c3c"
      borderopacity="0.99607843"
      inkscape:showpageshadow="true"
-     inkscape:pageopacity="0.41568627"
-     inkscape:pagecheckerboard="false"
-     inkscape:deskcolor="#ffffff"
-     inkscape:document-units="mm"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#494949"
+     inkscape:document-units="px"
      showgrid="true"
      showborder="true"
      borderlayer="true"
-     inkscape:zoom="8.5670229"
-     inkscape:cx="179.40888"
-     inkscape:cy="217.16996"
+     inkscape:zoom="3.0289"
+     inkscape:cx="74.779623"
+     inkscape:cy="94.588795"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4">
+     inkscape:current-layer="layer4"
+     shape-rendering="auto">
     <inkscape:grid
        type="xygrid"
        id="grid114"
@@ -65,7 +66,10 @@
        width="32"
        height="32"
        id="page2609"
-       inkscape:label="conveyor-0-0" />
+       inkscape:label="conveyor-0-0"
+       inkscape:export-filename="../sprites-override/blocks/distribution/conveyor-0-0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <inkscape:page
        x="64"
        y="64"
