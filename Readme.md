@@ -1,8 +1,10 @@
 # Fresh Theme for Mindustry
 
-A modern, minimalistic Mindustry skin with a focus on clarity and readability.
+A modern, minimalist Mindustry skin with a focus on clarity and readability.
 
 Work in progress.
+
+![Demo screenshot of Fresh Theme](./screenshot/distribution.png)
 
 # Distribution
 
