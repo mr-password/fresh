@@ -9,3 +9,4 @@ minGameVersion: 136
 
 java: true
 main: "fresh.FreshMod"
+hidden: true
