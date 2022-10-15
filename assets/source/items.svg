@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="5.6568543"
-     inkscape:cx="179.7819"
-     inkscape:cy="-4.1542523"
+     inkscape:cx="187.73685"
+     inkscape:cy="15.467961"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
@@ -66,7 +66,10 @@
        width="32"
        height="32"
        id="page451"
-       inkscape:label="graphite" />
+       inkscape:label="graphite"
+       inkscape:export-filename="../sprites-override/items/item-graphite.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <inkscape:page
        x="0"
        y="64"
