@@ -16,7 +16,7 @@ public class FreshMod extends Mod{
             Items.copper.color = Color.valueOf("b36b55");
             Items.lead.color = Color.valueOf("6d557e");
             Items.metaglass.color = Color.valueOf("adc4cf");
-            Items.graphite.color = Color.valueOf("435467");
+            Items.graphite.color = Color.valueOf("596983");
             Items.sand.color = Color.valueOf("f0d5a0");
             Items.coal.color = Color.valueOf("1f252f");
             Items.titanium.color = Color.valueOf("385997");
